@@ -1,0 +1,26 @@
+Evidence Pack v0 index
+Generated: 2025-09-18T16:13:12.147929Z
+
+- config/guardrails/json_schema_basic_message.json (721 bytes)
+- config/guardrails/no_go_terms.json (533 bytes)
+- config/regex/pii_patterns.json (781 bytes)
+- config/regex/pii_test_report.json (118 bytes)
+- datasets/freeze_manifest.json (575 bytes)
+- datasets/linkwise_eval_rubric_freeze.csv (1199 bytes)
+- datasets/linkwise_test_inputs_messages_freeze.csv (2820 bytes)
+- iaa/hitl_sample.json (978 bytes)
+- index.txt (710 bytes)
+- langfuse/README.txt (707 bytes)
+- langfuse/langfuse_run_log.txt (165 bytes)
+- reports/live_poc1_results_20250918_141805.json (12932 bytes)
+- reports/live_poc2_results_20250918_135750.csv (926 bytes)
+- reports/poc1_guardrails_summary.json (12932 bytes)
+- reports/poc2_judge_scores_20250918_135750.csv (926 bytes)
+- reports/poc3_regression_20250918_141828.json (2785 bytes)
+- reports/poc3_regression_summary.json (2785 bytes)
+- evidence/reports/live_poc2_results_20250918_162946.csv
+- evidence/reports/live_poc2_results_20250918_164200.csv
+- evidence/reports/poc3_regression_20250918_180953.json
+- evidence/langfuse/poc2_v2_traces.json
+- evidence/langfuse/batch_evaluation_v2_detail.png
+- evidence/langfuse/trace_detail_case20_v2.png

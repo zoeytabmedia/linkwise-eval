@@ -1,0 +1,48 @@
+{
+  "datasets": {
+    "primary_20": {
+      "path": "data/datasets/linkwise_test_inputs_messages_freeze.jsonl",
+      "sha256": "53771be9a530919003748d7a95e742daaa86e4ab701460e34585dfc5f8cf4816",
+      "frozen_at": "2025-09-18T12:16:46Z",
+      "split": {"intro": 7, "followup": 7, "meeting": 6}
+    },
+    "optional_100": {
+      "path": "data/datasets/linkwise_100_messages_freeze.jsonl",
+      "sha256": "f0311683738dee41be2c4c6cdaa29a25ecbc18d1493ecade0e5d2908d5cebc00",
+      "frozen_at": "2025-09-18T13:53:37Z",
+      "split": {"intro": 35, "followup": 35, "meeting": 30}
+    }
+  },
+  "config": {
+    "rubric": "config/rubric/rubric.csv",
+    "no_go_terms": "config/guardrails/no_go_terms.json",
+    "json_schemas_dir": "config/guardrails/",
+    "pii_patterns": "config/regex/pii_patterns.json"
+  },
+  "runs": {
+    "poc1": "evidence/reports/live_poc1_results_20250918_141805.json",
+    "poc2_v1": "evidence/reports/live_poc2_results_20250918_135750.csv",
+    "poc2_v2": "evidence/reports/live_poc2_results_V2_20250918_151843.csv",
+    "poc3": "evidence/reports/poc3_regression_20250918_151925.json"
+  },
+  "observability": {
+    "langfuse_overview_png": "evidence/langfuse/traces_overview.png",
+    "langfuse_detail_png": "evidence/langfuse/batch_evaluation_v1_detail.png",
+    "langfuse_trace_case_png": "evidence/langfuse/trace_detail_case20.png",
+    "prometheus_export": "evidence/metrics/prometheus_metrics_snapshot.txt"
+  },
+  "versions": {
+    "python": "3.10.13",
+    "node": "20.13.1",
+    "langfuse": "cloud (EU_cluster=pending_confirm)",
+    "deepeval": "unused",
+    "prometheus": "not_integrated"
+  },
+  "vcs": {
+    "repo": "t.b.d.",
+    "commit_for_poc1": "t.b.d.",
+    "commit_for_poc2_v1": "t.b.d.",
+    "commit_for_poc2_v2": "t.b.d.",
+    "commit_for_poc3": "t.b.d."
+  }
+}

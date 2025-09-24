@@ -1,0 +1,56 @@
+{
+  "sample_size": 10,
+  "agreement_within_1pt_pct": 100.0,
+  "pairs": [
+    {
+      "case_id": "1",
+      "llm_score": 4.4,
+      "human_score": 3.9000000000000004
+    },
+    {
+      "case_id": "2",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "3",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "4",
+      "llm_score": 4.4,
+      "human_score": 3.9000000000000004
+    },
+    {
+      "case_id": "5",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "6",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "7",
+      "llm_score": 4.4,
+      "human_score": 3.9000000000000004
+    },
+    {
+      "case_id": "8",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "9",
+      "llm_score": 4.4,
+      "human_score": 4.9
+    },
+    {
+      "case_id": "10",
+      "llm_score": 4.4,
+      "human_score": 3.9000000000000004
+    }
+  ]
+}

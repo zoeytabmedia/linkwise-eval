@@ -1,0 +1,521 @@
+{
+  "generated_at": "2025-09-18T16:20:00Z",
+  "dataset": "evidence/datasets/linkwise_100_messages.csv",
+  "source_scores": {
+    "V1": "evidence/reports/live_poc2_results_20250918_162946.csv",
+    "V2": "evidence/reports/live_poc2_results_20250918_164200.csv"
+  },
+  "sample_size": 30,
+  "items": [
+    {
+      "case_id": "82",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "1.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "21",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "0.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "11",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "1.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "94",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "40",
+      "model_scores": {
+        "V1": "1.0",
+        "V2": "0.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "37",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "1.8000000000000003"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "34",
+      "model_scores": {
+        "V1": "2.5",
+        "V2": "1.8000000000000003"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "24",
+      "model_scores": {
+        "V1": "0.0",
+        "V2": "1.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "20",
+      "model_scores": {
+        "V1": "0.0",
+        "V2": "1.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "87",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "71",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "19",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "77",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "0.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "58",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "1.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "12",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "97",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "89",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "33",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "35",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "67",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "79",
+      "model_scores": {
+        "V1": "1.8000000000000003",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "85",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "1.8000000000000003"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "73",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "31",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "9",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "1.8000000000000003"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "57",
+      "model_scores": {
+        "V1": "0.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "93",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "60",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "3.0"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": false
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "95",
+      "model_scores": {
+        "V1": "3.0",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": false,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    },
+    {
+      "case_id": "1",
+      "model_scores": {
+        "V1": "PARSE_FAILED",
+        "V2": "PARSE_FAILED"
+      },
+      "model_passed": {
+        "V1": false,
+        "V2": false
+      },
+      "parse_failed": {
+        "V1": true,
+        "V2": true
+      },
+      "human_scores": {},
+      "notes": ""
+    }
+  ]
+}

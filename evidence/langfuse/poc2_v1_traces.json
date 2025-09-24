@@ -1,0 +1,1349 @@
+[
+    {
+        "id": "2a91cc123ac956ca36ebd77cbdee4291",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:15:44.266Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_20",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "20",
+            "input_preview": "Implementation review - fase 1 evaluatie",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "20",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 14785
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:15:44.267152",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 14.786,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "836037a3ffced725fa0f07c815b89267",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:15:33.115Z",
+        "tags": [
+            "completed",
+            "score_1.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_19",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "19",
+            "input_preview": "Prospect heeft vragen over data migratie risicos",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "19",
+            "final_score": 1,
+            "passed": false,
+            "duration_ms": 11029
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:15:33.115925",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 11.031,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "aa0873b1c81c7dc6c4f8e5bbf41d529d",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:15:19.742Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_18",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "18",
+            "input_preview": "Pilot project succesvol afgerond, uitbreiding bespreken",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "18",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 13273
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:15:19.742640",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 13.274,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "e9a9d7b7134fad8429f260f3b9a9ed28",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:15:05.184Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_17",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "17",
+            "input_preview": "Trade show contact - CFO ge\u00efnteresseerd in ROI calculatie",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "17",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 14440
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:15:05.184555",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 14.441,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "749df12c102932086d2be924b99ce82b",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:14:52.634Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_16",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "16",
+            "input_preview": "Bestaande klant refereert nieuwe prospect - consultancy bureau",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "16",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 12435
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:14:52.634506",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 12.435,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "133e7f6df31fb484ec324a3e38f67242",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:14:39.509Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_15",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "15",
+            "input_preview": "Contract renewal gesprek - volgende jaar planning",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "15",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 13006
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:14:39.509833",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 13.008,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "cb9234ffd32136dbc0cbfa1da7cd97f9",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:14:17.141Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_14",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "14",
+            "input_preview": "Kwartaal business review - resultaten bespreken",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "14",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 22248
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:14:17.142063",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 22.249,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "a15e0d2565d624f614657ea99c9de242",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:14:01.693Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_13",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "13",
+            "input_preview": "Escalatie gesprek - implementatie loopt vertraging op",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "13",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 15339
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:14:01.693651",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 15.34,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "e81bc8e142d606b0bc7c5f1ade0fdca5",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:13:45.021Z",
+        "tags": [
+            "completed",
+            "score_failed"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_12",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "12",
+            "input_preview": "Maandelijkse review meeting, voorbereiding agenda",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "12",
+            "final_score": null,
+            "passed": false,
+            "duration_ms": 16570
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:13:45.022147",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 16.571,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "b1d38e4031bc6b79145c4d80a989e60c",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:13:28.723Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_11",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "11",
+            "input_preview": "Komende dinsdag kickoff meeting, bevestiging gewenst",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "11",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 16180
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:13:28.724065",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 16.182,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "408fa92f6aa25da76c52b2e6b7a46592",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:13:19.077Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_10",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "10",
+            "input_preview": "Prospect heeft budget goedkeuring gekregen",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "10",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 9542
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:13:19.077291",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 9.543,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "230a7d68a99388f23c2d7606a15b4544",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:13:02.930Z",
+        "tags": [
+            "completed",
+            "score_1.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_9",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "9",
+            "input_preview": "Technical due diligence afgerond, prospect wil beslissen",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "9",
+            "final_score": 1,
+            "passed": false,
+            "duration_ms": 16013
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:13:02.931144",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 16.014,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "1cb3eabdd1f86153f4c23c53a77a0f37",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:12:45.552Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_8",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "8",
+            "input_preview": "Prospect heeft concurrenten bekeken, vraagt om vergelijking",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "8",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 17268
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:12:45.552572",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 17.269,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "a78c29a6b77487b5d623d6406ed40255",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:12:29.361Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_7",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "7",
+            "input_preview": "Demo gegeven, prospect heeft vragen over pricing",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "7",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 16082
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:12:29.362395",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 16.084,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "5f029f0f3578356d7fcf92fdfbbe7b18",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:12:07.131Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_6",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "6",
+            "input_preview": "Vorige week intro meeting gehad, gevraagd om proposal",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "6",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 22119
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:12:07.132213",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 22.121,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "edb3b6a2ab8da415ee6b5c74ebd81196",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:11:54.458Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_5",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "5",
+            "input_preview": "Website aanmelding - IT manager zoekt CRM integratie",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "5",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 12559
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:11:54.458997",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 12.561,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "db25aa9a3ea5a2ac213e992854481c6b",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:11:42.264Z",
+        "tags": [
+            "completed",
+            "score_failed"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_4",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "4",
+            "input_preview": "Referral contact - COO van middelgroot bedrijf, tijdsdruk project",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "4",
+            "final_score": 0,
+            "passed": false,
+            "duration_ms": 12082
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:11:42.264979",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 12.085,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "512f97a582f5252a3b4fa850027c088a",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:11:26.154Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_3",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "3",
+            "input_preview": "Cold outreach - CEO van startup, nog geen CRM systeem",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "3",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 16009
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:11:26.154645",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 16.01,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "df2f0dc01f2a795a05c09178a0a12d1f",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:11:11.038Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_2",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "2",
+            "input_preview": "Prospect via LinkedIn, marketing manager, vraagt naar automatisering mogelijkheden",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "2",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 15036
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:11:11.038213",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 15.036,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "8148587a17913cf554287c2fdc2c6fbb",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:10:53.483Z",
+        "tags": [
+            "completed",
+            "pass_rate_0/20"
+        ],
+        "bookmarked": false,
+        "name": "batch_evaluation_V1",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "run_id": "poc2_V1_20250918_121053",
+            "variant": "V1",
+            "batch_size": 20
+        },
+        "output": {
+            "run_id": "poc2_V1_20250918_121053",
+            "variant": "V1",
+            "total_cases": 20,
+            "passed_cases": 0,
+            "parse_failed_cases": 1,
+            "average_score": 2.6315789473684212,
+            "duration_ms": 305679
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:10:53.483363",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 305.68,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    },
+    {
+        "id": "947e2fc2022d42a7143c8d61d78fbb99",
+        "projectId": "cmespxo8h0021ad075yshkxqu",
+        "timestamp": "2025-09-18T12:10:53.483Z",
+        "tags": [
+            "completed",
+            "score_3.0"
+        ],
+        "bookmarked": false,
+        "name": "judge_evaluation_case_1",
+        "release": null,
+        "version": null,
+        "userId": null,
+        "environment": "default",
+        "sessionId": null,
+        "public": false,
+        "input": {
+            "case_id": "1",
+            "input_preview": "Nieuwe prospect - software bedrijf, 50 werknemers, ge\u00efnteresseerd in CRM oplossing",
+            "output_preview": ""
+        },
+        "output": {
+            "case_id": "1",
+            "final_score": 3,
+            "passed": false,
+            "duration_ms": 17335
+        },
+        "metadata": {
+            "timestamp": "2025-09-18T14:10:53.483511",
+            "project": "linkwise-eval",
+            "environment": "development",
+            "resourceAttributes": {
+                "telemetry.sdk.language": "python",
+                "telemetry.sdk.name": "opentelemetry",
+                "telemetry.sdk.version": "1.36.0",
+                "service.name": "unknown_service"
+            },
+            "scope": {
+                "name": "langfuse-sdk",
+                "version": "3.3.4",
+                "attributes": {
+                    "public_key": "pk-lf-a378fb19-c0a4-4fcd-8a5e-0e88c39cec2f"
+                }
+            }
+        },
+        "latency": 17.336,
+        "usage": {
+            "promptTokens": 0,
+            "completionTokens": 0,
+            "totalTokens": 0
+        },
+        "inputCost": null,
+        "outputCost": null,
+        "totalCost": null,
+        "level": "DEFAULT",
+        "errorCount": 0,
+        "warningCount": 0,
+        "defaultCount": 1,
+        "debugCount": 0,
+        "observationCount": 1,
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+    }
+]

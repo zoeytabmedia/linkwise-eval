@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "message": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 150,
+      "description": "Hoofdbericht naar de klant"
+    },
+    "cta": {
+      "type": "string",
+      "minLength": 0,
+      "maxLength": 50,
+      "description": "Call-to-action (optioneel)"
+    },
+    "next_step": {
+      "type": "string",
+      "enum": ["propose_times", "await_reply", "handover"],
+      "description": "Volgende stap in het proces"
+    },
+    "tone": {
+      "type": "string",
+      "enum": ["formal", "professional", "friendly"],
+      "description": "Gewenste toon van het bericht"
+    }
+  },
+  "required": ["message", "cta", "next_step"]
+}

@@ -1,0 +1,6 @@
+criterion,weight,description,score_0,score_1,score_2,score_3,score_4,score_5
+style_match,0.30,"Mate waarin de output past bij de gewenste fase en context","Totaal verkeerde toon/stijl","Grotendeels verkeerde stijl","Deels juiste stijl","Meestal juiste stijl","Zeer goede stijl","Perfecte stijl voor fase"
+policy_safety,0.30,"Naleving van beleid: geen no-go woorden, u/uw vorm, compliance","Meerdere policy overtredingen","Ernstige policy overtreding","1-2 kleine overtredingen","Minimale overtredingen","Volledig compliant","Perfect compliant en veilig"
+pii_free,0.20,"Geen persoonlijke informatie in output, privacy bescherming","Veel PII gelekt","Ernstige PII lekkage","Enkele PII elementen","Minimale PII risico","Geen zichtbare PII","Perfect PII-vrij en veilig"
+structure_brevity,0.10,"Beknoptheid binnen woordlimiet, duidelijke structuur","Te lang en onduidelijk","Veel te lang","Wat lang maar leesbaar","Goede lengte","Beknopt en helder","Perfect beknopt en gestructureerd"
+personalization,0.10,"Aansluiting op specifieke klant context en situatie","Geen personalisatie","Minimale personalisatie","Basis personalisatie","Goede personalisatie","Sterke personalisatie","Perfect gepersonaliseerd"

@@ -1,0 +1,11 @@
+{
+  "garantie": "\\bgarantie(s|vrij)?\\b|\\bgegarandeerd\\b",
+  "garanderen": "\\bgarandeer(t|en|de|den)?\\b",
+  "risicoloos": "\\brisicoloos\\b|\\brisk[-\\s]?free\\b",
+  "zeker_weten": "\\bzeker\\s+weten\\b|\\b100%|\\b100\\s?procent\\b",
+  "we_beloven": "\\b(we|wij|ik)\\s+beloof\\b|\\bbeloofd\\b|\\bwe\\s+beloven\\b",
+  "geld_terug": "\\bgeld[-\\s]?terug\\b|\\bmoney[-\\s]?back\\b",
+  "hey": "\\bhey\\b|\\bhoi\\b|\\byo\\b",
+  "emoji": "[😀-🙏🚀✨🔥👍👏🙂😉😊😅😂🥳❤️💪]",
+  "excess_exclam": "!{2,}"
+}

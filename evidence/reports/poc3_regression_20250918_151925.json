@@ -1,0 +1,24 @@
+{
+  "trace_id": "00000000000000000000000000000000",
+  "dataset": {
+    "path": "evidence/datasets/linkwise_test_inputs_messages_freeze.csv",
+    "sha256": "a46fa04c396abcdf85c6f608b46daf831e4cc9e3c553d19896b6d0da592b9b92"
+  },
+  "variant_a": {
+    "name": "121053",
+    "avg_score": 2.632,
+    "passed": 0,
+    "parse_failed": 0
+  },
+  "variant_b": {
+    "name": "151843",
+    "avg_score": 0.0,
+    "passed": 0,
+    "parse_failed": 0
+  },
+  "score_improvement": -2.632,
+  "improvement_percentage": -100.0,
+  "parse_failure_delta": 0,
+  "meets_promotion_threshold": false,
+  "duration_ms": 0
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "case_id": 1,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 67,
+    "checks": {
+      "json_valid": true,
+      "json_errors": [],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.11441699462011456,
+      "nogo": 0.07570802699774504,
+      "schema": 0,
+      "length": 0.0038750004023313522,
+      "cta": 0.048874993808567524,
+      "total": 0.2662909682840109
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 2,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 71,
+    "checks": {
+      "json_valid": true,
+      "json_errors": [],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": true,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.20241702441126108,
+      "nogo": 0.08991698268800974,
+      "schema": 0,
+      "length": 0.0032500247471034527,
+      "cta": 0.05937495734542608,
+      "total": 0.38949999725446105
+    },
+    "severity": "pass"
+  },
+  {
+    "case_id": 3,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 87,
+    "checks": {
+      "json_valid": true,
+      "json_errors": [],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": true,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.12620800407603383,
+      "nogo": 0.08112500654533505,
+      "schema": 0,
+      "length": 0.003915978595614433,
+      "cta": 0.053958967328071594,
+      "total": 0.27191598201170564
+    },
+    "severity": "pass"
+  },
+  {
+    "case_id": 4,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 77,
+    "checks": {
+      "json_valid": true,
+      "json_errors": [],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": true,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.11262501357123256,
+      "nogo": 0.07870799163356423,
+      "schema": 0,
+      "length": 0.0029579969123005867,
+      "cta": 0.04833401180803776,
+      "total": 0.2476670197211206
+    },
+    "severity": "pass"
+  },
+  {
+    "case_id": 5,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 72,
+    "checks": {
+      "json_valid": true,
+      "json_errors": [],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.09824999142438173,
+      "nogo": 0.07029203698039055,
+      "schema": 0,
+      "length": 0.0024579931050539017,
+      "cta": 0.048707996029406786,
+      "total": 0.22466701921075583
+    },
+    "severity": "fail"
+  }
+]

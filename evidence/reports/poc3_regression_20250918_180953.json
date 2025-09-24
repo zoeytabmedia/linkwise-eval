@@ -1,0 +1,24 @@
+{
+  "trace_id": "00000000000000000000000000000000",
+  "dataset": {
+    "path": "evidence/datasets/linkwise_100_messages.csv",
+    "sha256": "34d387a6a2ee9991426662620f25705c2ee504d01a2490af61cc65e4bbec10ae"
+  },
+  "variant_a": {
+    "name": "162946",
+    "avg_score": 2.282,
+    "passed": 0,
+    "parse_failed": 0
+  },
+  "variant_b": {
+    "name": "164200",
+    "avg_score": 2.247,
+    "passed": 0,
+    "parse_failed": 0
+  },
+  "score_improvement": -0.034,
+  "improvement_percentage": -1.51,
+  "parse_failure_delta": 0,
+  "meets_promotion_threshold": false,
+  "duration_ms": 0
+}

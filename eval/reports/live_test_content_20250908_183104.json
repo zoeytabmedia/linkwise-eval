@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": 1,
+    "phase": "intro",
+    "input": "Nieuwe prospect - software bedrijf, 50 werknemers, geïnteresseerd in CRM oplossing",
+    "generated_output": "Geachte heer/mevrouw,\n\nWij begrijpen dat uw softwarebedrijf (ongeveer 50 medewerkers) interesse heeft in een CRM-oplossing. Onze oplossing centraliseert klantgegevens, versnelt uw verkoopproces en integreert met bestaande tools, met korte implementatietijd en meetbare ROI. Graag bespreek ik hoe wij dit voor uw organisatie kunnen realiseren.\n\nMag ik u uitnodigen voor een kennismakingsgesprek van 20 minuten? Geef twee voorkeursmomenten in de komende week of laat mij een voorstel doen."
+  },
+  {
+    "case_id": 2,
+    "phase": "intro",
+    "input": "Prospect via LinkedIn, marketing manager, vraagt naar automatisering mogelijkheden",
+    "generated_output": "Geachte mevrouw/meneer [Achternaam],\n\nDank voor uw vraag over automatisering. Wij helpen marketingteams met het automatiseren van leadnurturing, campagne-synchronisatie en rapportage, zodat u meer rendement uit bestaande campagnes haalt. Graag bespreek ik in 20 minuten welke concrete kansen er voor uw organisatie liggen.\n\nHeeft u aanstaande dinsdag 10:00–10:20 of donderdag 15:00–15:20 tijd? Bevestigt u één van deze opties of geeft u uw voorkeurstijd door, dan plan ik het in.\n\nMet vriendelijke groet,"
+  },
+  {
+    "case_id": 3,
+    "phase": "intro",
+    "input": "Cold outreach - CEO van startup, nog geen CRM systeem",
+    "generated_output": "Geachte heer/mevrouw,\n\nMijn naam is [Naam] van [Bedrijfsnaam]. Wij helpen startups snel structuur te brengen in sales met een lichtgewicht CRM. Ik zag dat uw organisatie momenteel geen CRM gebruikt — dat leidt vaak tot gemiste kansen en inefficiënte opvolging. \n\nGraag bespreek ik in een vrijblijvende kennismaking van 15 minuten hoe wij binnen enkele weken een werkend proces kunnen inrichten.\n\nHeeft u komende week tijd voor een kort gesprek? Reageer met twee beschikbare momenten of plan direct via deze link: [kalenderlink].\n\nMet vriendelijke groet,\n[Naam], [Functie], [Bedrijfsnaam]"
+  },
+  {
+    "case_id": 4,
+    "phase": "intro",
+    "input": "Referral contact - COO van middelgroot bedrijf, tijdsdruk project",
+    "generated_output": "Geachte heer/mevrouw,\n\nVia een gemeenschappelijke relatie kreeg ik uw contactgegevens. Ik begrijp dat uw project onder aanzienlijke tijdsdruk staat. Wij helpen middelgrote organisaties bij versnelde software-implementaties zodat deadlines worden gehaald en risico’s beperkt.\n\nGraag plan ik een kort telefonisch kennismakingsgesprek van 20 minuten om uw urgente behoeften en concrete vervolgstappen te bespreken. Bent u beschikbaar op dinsdag 10:00–12:00 of donderdag 14:00–16:00? Geef uw voorkeursmoment door of stel een alternatief voor.\n\nMet vriendelijke groet,\n[Naam]\n[Bedrijf] | [Telefoon]"
+  },
+  {
+    "case_id": 5,
+    "phase": "intro",
+    "input": "Website aanmelding - IT manager zoekt CRM integratie",
+    "generated_output": "Geachte heer/mevrouw,\n\nDank voor uw aanmelding. Ik begrijp dat u zoekt naar een CRM-integratie. Graag licht ik uw huidige CRM, integratie-eisen en gewenste oplevertermijn kort toe om een passend voorstel voor te bereiden. Heeft u 20 minuten voor een kennismakingsgesprek? Antwoord alstublieft met uw voorkeursdatum en -tijd in de komende week, of vermeld uw CRM-systeem en drie belangrijkste integratieprioriteiten, dan neem ik direct contact op.\n\nMet vriendelijke groet,\n[Uw naam]\n[Functie], [Bedrijfsnaam]"
+  }
+]

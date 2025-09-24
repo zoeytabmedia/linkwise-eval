@@ -1,0 +1,72 @@
+{
+  "v1": {
+    "run_id": "20250908_183104",
+    "variant": "V1_baseline",
+    "model": "gpt-5-mini",
+    "poc1_results": {
+      "total": 5,
+      "passed": 3,
+      "pass_rate": 0.6,
+      "failures": [
+        "case_1_missing_cta",
+        "case_5_missing_cta"
+      ]
+    },
+    "poc2_results": {
+      "total": 5,
+      "passed": 1,
+      "pass_rate": 0.2,
+      "avg_score": 1.0,
+      "parse_failures": 4
+    }
+  },
+  "v2": {
+    "run_id": "20250908_205420",
+    "variant": "V2_improved",
+    "model": "gpt-5-mini",
+    "poc1_results": {
+      "total": 5,
+      "passed": 4,
+      "pass_rate": 0.8,
+      "failures": [
+        "case_4_policy_violation"
+      ]
+    },
+    "poc2_results": {
+      "total": 5,
+      "passed": 2,
+      "pass_rate": 0.4,
+      "avg_score": 3.23,
+      "parse_failures": 2
+    }
+  },
+  "regression_analysis": {
+    "timestamp": "2025-09-08T22:45:01.919098",
+    "comparison": "V1_baseline \u2192 V2_improved",
+    "poc1_regression": {
+      "pass_rate_delta": 0.20000000000000007,
+      "improved": true,
+      "significance": "CTA-detectie verbeterd door lexicon uitbreiding"
+    },
+    "poc2_regression": {
+      "pass_rate_delta": 0.2,
+      "score_delta": 2.23,
+      "parse_failure_reduction": 2,
+      "improved": true,
+      "significance": "JSON parsing fixes + gating logic effectief"
+    },
+    "decision": {
+      "promote_to_production": true,
+      "reason": "Score delta +2.23 > threshold 0.25, geen policy regressie",
+      "risk_assessment": "LOW - Alleen verbeteringen, geen degradatie"
+    },
+    "trace_metadata": {
+      "langfuse_project": "linkwise-eval",
+      "trace_ids": [
+        "trace_v1_183104",
+        "trace_v2_205420"
+      ],
+      "comparison_url": "https://cloud.langfuse.com/project/linkwise-eval/traces"
+    }
+  }
+}

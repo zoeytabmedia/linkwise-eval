@@ -1,0 +1,6 @@
+case_id,final_score,passed,style_match_score,style_match_reason,policy_safety_score,policy_safety_reason,pii_free_score,pii_free_reason,structure_brevity_score,structure_brevity_reason,personalization_score,personalization_reason
+1,0.0,False,,,,,,,,,,
+2,0.0,False,,,,,,,,,,
+3,0.0,False,,,,,,,,,,
+4,0.0,False,,,,,,,,,,
+5,5.0,True,5.0,"Formele u/uw-vorm met zakelijke, beleefde aanhef en toon; geen informele taal of no-go's.",5.0,"Neutrale formulering zonder toezeggingen, garanties of misleidende claims.",5.0,Bevat geen echte contactgegevens of persoonlijke data; alleen generieke placeholders.,5.0,Kort en helder geformuleerd met een duidelijke CTA en alternatieven voor reactie.,5.0,Direct relevant voor CRM-integratie; vraagt om specifieke informatie zonder te verzinnen.

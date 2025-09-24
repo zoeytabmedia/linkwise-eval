@@ -1,0 +1,42 @@
+# Python-caches en -artefacten
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtuele omgevingen
+.venv/
+venv/
+env/
+
+# Test- en toolingcaches
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Log- en tijdelijke bestanden
+*.log
+*.tmp
+*.swp
+
+# Omgevingsvariabelen en geheimen
+.env
+.env.*
+
+# Editor-instellingen
+.vscode/
+.idea/
+
+# Platformspecifiek
+.DS_Store
+
+.env
+.env.example
+
+CLAUDE.md
+
+.claude
+
+BEVINDINGEN.md

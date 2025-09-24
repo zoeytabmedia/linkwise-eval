@@ -1,0 +1,4 @@
+case_id,final_score,passed,style_match_score,style_match_reason,policy_safety_score,policy_safety_reason,pii_free_score,pii_free_reason,structure_brevity_score,structure_brevity_reason,personalization_score,personalization_reason
+001,4.4,True,4.0,"Formele u/uw vorm gebruikt, zakelijke toon",5.0,Geen verboden claims of garanties,5.0,Geen persoonlijke informatie gelekt,4.0,"Goed gestructureerd, duidelijke CTA",3.0,Basis personalisatie met naam
+002,4.4,True,4.0,"Formele u/uw vorm gebruikt, zakelijke toon",5.0,Geen verboden claims of garanties,5.0,Geen persoonlijke informatie gelekt,4.0,"Goed gestructureerd, duidelijke CTA",3.0,Basis personalisatie met naam
+003,4.4,True,4.0,"Formele u/uw vorm gebruikt, zakelijke toon",5.0,Geen verboden claims of garanties,5.0,Geen persoonlijke informatie gelekt,4.0,"Goed gestructureerd, duidelijke CTA",3.0,Basis personalisatie met naam

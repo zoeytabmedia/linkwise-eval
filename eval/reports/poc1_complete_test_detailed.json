@@ -1,0 +1,542 @@
+[
+  {
+    "case_id": 1,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 4,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.016583013348281384,
+      "nogo": 0.00700005330145359,
+      "schema": 0.011541997082531452,
+      "length": 0.000667001586407423,
+      "cta": 0.004833971615880728,
+      "total": 0.05874998169019818
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 2,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 8,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.015291967429220676,
+      "nogo": 0.009582960046827793,
+      "schema": 0.004375004209578037,
+      "length": 0.000500003807246685,
+      "cta": 0.005999987479299307,
+      "total": 0.039624981582164764
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 3,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 7,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.012042000889778137,
+      "nogo": 0.0071249669417738914,
+      "schema": 0.003708992153406143,
+      "length": 0.000500003807246685,
+      "cta": 0.004959001671522856,
+      "total": 0.03183400258421898
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 4,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 7,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.011791009455919266,
+      "nogo": 0.0072919647209346294,
+      "schema": 0.003207998815923929,
+      "length": 0.00045803608372807503,
+      "cta": 0.004875008016824722,
+      "total": 0.031000003218650818
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 5,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.010624993592500687,
+      "nogo": 0.006708025466650724,
+      "schema": 0.0032500247471034527,
+      "length": 0.00045803608372807503,
+      "cta": 0.00429095234721899,
+      "total": 0.028667040169239044
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 6,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 5,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.015124969650059938,
+      "nogo": 0.006708025466650724,
+      "schema": 0.00304199056699872,
+      "length": 0.0004169996827840805,
+      "cta": 0.004499976057559252,
+      "total": 0.03708299482241273
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 7,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 7,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.014416989870369434,
+      "nogo": 0.0070410314947366714,
+      "schema": 0.00604201341047883,
+      "length": 0.00037497375160455704,
+      "cta": 0.004791014362126589,
+      "total": 0.03591697895899415
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 8,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.012165983207523823,
+      "nogo": 0.007542024832218885,
+      "schema": 0.0029170187190175056,
+      "length": 0.00041601015254855156,
+      "cta": 0.004833040293306112,
+      "total": 0.031124975066632032
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 9,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 4,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.008958973921835423,
+      "nogo": 0.005333044100552797,
+      "schema": 0.0030830269679427147,
+      "length": 0.00037497375160455704,
+      "cta": 0.003207998815923929,
+      "total": 0.024250010028481483
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 10,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.011083029676228762,
+      "nogo": 0.006499991286545992,
+      "schema": 0.00300002284348011,
+      "length": 0.00037497375160455704,
+      "cta": 0.004458008334040642,
+      "total": 0.028499984182417393
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 11,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 5,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.009124982170760632,
+      "nogo": 0.005665991920977831,
+      "schema": 0.002667016815394163,
+      "length": 0.0003750319592654705,
+      "cta": 0.0037080026231706142,
+      "total": 0.024540990125387907
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 12,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 5,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.00920804450288415,
+      "nogo": 0.005665991920977831,
+      "schema": 0.002582964953035116,
+      "length": 0.0003750319592654705,
+      "cta": 0.003541994374245405,
+      "total": 0.02441700780764222
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 13,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 5,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.008958042599260807,
+      "nogo": 0.005291949491947889,
+      "schema": 0.0026659690774977207,
+      "length": 0.000333995558321476,
+      "cta": 0.0036249984987080097,
+      "total": 0.023667002096772194
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 14,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 7,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.010207993909716606,
+      "nogo": 0.006459013093262911,
+      "schema": 0.0026249908842146397,
+      "length": 0.00037497375160455704,
+      "cta": 0.004458997864276171,
+      "total": 0.027082976885139942
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 15,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": true,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.010167015716433525,
+      "nogo": 0.006166985258460045,
+      "schema": 0.0026249908842146397,
+      "length": 0.00037497375160455704,
+      "cta": 0.00462500611320138,
+      "total": 0.026957946829497814
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 16,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.010709045454859734,
+      "nogo": 0.006792019121348858,
+      "schema": 0.002541986759752035,
+      "length": 0.0004169996827840805,
+      "cta": 0.004415982402861118,
+      "total": 0.027708010748028755
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 17,
+    "phase": "intro",
+    "output_mode": "text",
+    "word_count": 8,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.011374999303370714,
+      "nogo": 0.007333001121878624,
+      "schema": 0.002541986759752035,
+      "length": 0.00037497375160455704,
+      "cta": 0.00500003807246685,
+      "total": 0.029583985451608896
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 18,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.009124982170760632,
+      "nogo": 0.005416979547590017,
+      "schema": 0.002541986759752035,
+      "length": 0.00033300602808594704,
+      "cta": 0.0037499703466892242,
+      "total": 0.02416700590401888
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 19,
+    "phase": "followup",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.009333016350865364,
+      "nogo": 0.005792011506855488,
+      "schema": 0.0026249908842146397,
+      "length": 0.00037497375160455704,
+      "cta": 0.003959052264690399,
+      "total": 0.024874985683709383
+    },
+    "severity": "fail"
+  },
+  {
+    "case_id": 20,
+    "phase": "meeting",
+    "output_mode": "text",
+    "word_count": 6,
+    "checks": {
+      "json_valid": false,
+      "json_errors": [
+        "Ongeldige JSON: Expecting value: line 1 column 1 (char 0)"
+      ],
+      "length_ok": true,
+      "length_over_by": 0,
+      "nogo_hits": [],
+      "pii_hits": [],
+      "cta_present": false,
+      "policy_claims": []
+    },
+    "timings_ms": {
+      "pii": 0.009167008101940155,
+      "nogo": 0.005707959644496441,
+      "schema": 0.002500019036233425,
+      "length": 0.00033300602808594704,
+      "cta": 0.004167028237134218,
+      "total": 0.02475001383572817
+    },
+    "severity": "fail"
+  }
+]

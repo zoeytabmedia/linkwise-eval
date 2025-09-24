@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": 1,
+    "phase": "intro",
+    "input": "Nieuwe prospect - software bedrijf, 50 werknemers, geïnteresseerd in CRM oplossing",
+    "generated_output": "Geachte heer/mevrouw,\n\nHartelijk dank voor uw interesse in onze CRM-oplossing. Wij helpen softwarebedrijven (circa 50 medewerkers) met het centraliseren van klantgegevens, verbeteren van salesforecasting en integratie met ontwikkel- en supporttools, zodat uw verkoop- en klantprocessen schaalbaar worden.\n\nGraag plan ik een kort kennismakingsgesprek van 20 minuten om uw wensen te bespreken en te tonen hoe wij kunnen ondersteunen. Schikt één van de volgende momenten: dinsdag 10:00 of donderdag 14:00? Geef uw voorkeur door, dan plan ik het direct in.\n\nMet vriendelijke groet,\n[uw naam], [functie], [bedrijfsnaam]"
+  },
+  {
+    "case_id": 2,
+    "phase": "intro",
+    "input": "Prospect via LinkedIn, marketing manager, vraagt naar automatisering mogelijkheden",
+    "generated_output": "Hartelijk dank voor uw interesse in automatiseringsmogelijkheden. Wij helpen marketingteams met geautomatiseerde workflows, lead scoring, multichannel campagne‑orchestratie en meetbare rapportages, afgestemd op uw doelstellingen.\n\nGraag bespreek ik kort (20 minuten) hoe dit voor uw organisatie kan werken en laat ik relevante voorbeelden zien. Mag ik een kennismakingsgesprek van 20 minuten inplannen? Kunt u twee beschikbare momenten doorgeven, dan stuur ik direct een afspraakvoorstel."
+  },
+  {
+    "case_id": 3,
+    "phase": "intro",
+    "input": "Cold outreach - CEO van startup, nog geen CRM systeem",
+    "generated_output": "Geachte heer/mevrouw,\n\nAls CEO van een groeiende startup zonder CRM merkt u wellicht dat leads verspreid raken en kansen verloren gaan. Wij helpen startups snel een gebruiksvriendelijk CRM te implementeren dat klantdata centraliseert, uw salesproces inzichtelijk maakt en direct tijd bespaart.\n\nMag ik een vrijblijvende kennismaking van 15 minuten inplannen om te bespreken wat dat voor uw organisatie kan opleveren? Welke dag en tijd komende week schikt u het beste?"
+  },
+  {
+    "case_id": 4,
+    "phase": "intro",
+    "input": "Referral contact - COO van middelgroot bedrijf, tijdsdruk project",
+    "generated_output": ""
+  },
+  {
+    "case_id": 5,
+    "phase": "intro",
+    "input": "Website aanmelding - IT manager zoekt CRM integratie",
+    "generated_output": "Geachte heer/mevrouw,\n\nDank voor uw aanmelding en interesse in onze CRM-integratie. Wij ondersteunen IT-managers met veilige, schaalbare koppelingen tussen uw CRM en bestaande systemen (API’s, middleware, SSO), inclusief ontwerp, implementatie en nazorg. Graag bespreek ik uw wensen en technische randvoorwaarden in een korte, vrijblijvende kennismaking van 30 minuten om een eerste aanpak en tijdsinschatting voor te leggen.\n\nAntwoord alstublieft met drie beschikbare tijdstippen, dan plan ik het gesprek in."
+  }
+]

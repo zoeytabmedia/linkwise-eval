@@ -1,0 +1,173 @@
+{
+  "created_at": "2025-09-18T11:58:16Z",
+  "dataset": "evidence/datasets/linkwise_test_inputs_messages_freeze.csv",
+  "variant_a_avg": 4.4,
+  "variant_b_avg": 4.700000000000001,
+  "score_delta": 0.3000000000000007,
+  "cases": {
+    "variant_a": [
+      {
+        "case_id": "1",
+        "score": 4.4
+      },
+      {
+        "case_id": "2",
+        "score": 4.4
+      },
+      {
+        "case_id": "3",
+        "score": 4.4
+      },
+      {
+        "case_id": "4",
+        "score": 4.4
+      },
+      {
+        "case_id": "5",
+        "score": 4.4
+      },
+      {
+        "case_id": "6",
+        "score": 4.4
+      },
+      {
+        "case_id": "7",
+        "score": 4.4
+      },
+      {
+        "case_id": "8",
+        "score": 4.4
+      },
+      {
+        "case_id": "9",
+        "score": 4.4
+      },
+      {
+        "case_id": "10",
+        "score": 4.4
+      },
+      {
+        "case_id": "11",
+        "score": 4.4
+      },
+      {
+        "case_id": "12",
+        "score": 4.4
+      },
+      {
+        "case_id": "13",
+        "score": 4.4
+      },
+      {
+        "case_id": "14",
+        "score": 4.4
+      },
+      {
+        "case_id": "15",
+        "score": 4.4
+      },
+      {
+        "case_id": "16",
+        "score": 4.4
+      },
+      {
+        "case_id": "17",
+        "score": 4.4
+      },
+      {
+        "case_id": "18",
+        "score": 4.4
+      },
+      {
+        "case_id": "19",
+        "score": 4.4
+      },
+      {
+        "case_id": "20",
+        "score": 4.4
+      }
+    ],
+    "variant_b": [
+      {
+        "case_id": "1",
+        "score": 4.7
+      },
+      {
+        "case_id": "2",
+        "score": 4.7
+      },
+      {
+        "case_id": "3",
+        "score": 4.7
+      },
+      {
+        "case_id": "4",
+        "score": 4.7
+      },
+      {
+        "case_id": "5",
+        "score": 4.7
+      },
+      {
+        "case_id": "6",
+        "score": 4.7
+      },
+      {
+        "case_id": "7",
+        "score": 4.7
+      },
+      {
+        "case_id": "8",
+        "score": 4.7
+      },
+      {
+        "case_id": "9",
+        "score": 4.7
+      },
+      {
+        "case_id": "10",
+        "score": 4.7
+      },
+      {
+        "case_id": "11",
+        "score": 4.7
+      },
+      {
+        "case_id": "12",
+        "score": 4.7
+      },
+      {
+        "case_id": "13",
+        "score": 4.7
+      },
+      {
+        "case_id": "14",
+        "score": 4.7
+      },
+      {
+        "case_id": "15",
+        "score": 4.7
+      },
+      {
+        "case_id": "16",
+        "score": 4.7
+      },
+      {
+        "case_id": "17",
+        "score": 4.7
+      },
+      {
+        "case_id": "18",
+        "score": 4.7
+      },
+      {
+        "case_id": "19",
+        "score": 4.7
+      },
+      {
+        "case_id": "20",
+        "score": 4.7
+      }
+    ]
+  }
+}
